@@ -1,0 +1,13 @@
+,quarter,#pull_requests,#commits,#issues,#new_pull_requesters,#new_issuers,#new_committers,#total_items,Date_beginning,Date_End
+0,first,28,113,24,14,14,10,165,"01 January, 2015","31 March, 2015"
+1,second,16,91,13,9,12,4,120,"01 April, 2015","30 June, 2015"
+2,third,31,147,34,9,10,6,212,"01 July, 2015","30 September, 2015"
+3,fourth,17,91,24,10,16,7,132,"01 October, 2015","31 December, 2015"
+4,first,47,202,33,17,13,12,282,"01 January, 2016","31 March, 2016"
+5,second,82,555,75,16,21,13,712,"01 April, 2016","30 June, 2016"
+6,third,128,594,72,16,21,19,794,"01 July, 2016","30 September, 2016"
+7,fourth,76,387,63,4,13,7,526,"01 October, 2016","31 December, 2016"
+8,first,120,308,99,10,21,12,527,"01 January, 2017","31 March, 2017"
+9,second,132,261,72,14,16,12,465,"01 April, 2017","30 June, 2017"
+10,third,76,197,80,12,20,11,353,"01 July, 2017","30 September, 2017"
+11,fourth,90,367,90,10,18,10,547,"01 October, 2017","31 December, 2017"
